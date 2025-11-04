@@ -11,7 +11,7 @@ NOTE: check any script you run in your system you copt form the internet
 ```bash
 git clone https://github.com/oswz/LSSS.git
 cd LSSS
-chmod +x lsss.sh
+chmod +x shs.sh
 ```
 
 Or download directly:
