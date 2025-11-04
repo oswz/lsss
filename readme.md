@@ -1,6 +1,8 @@
 # LSSS - Linux System Security Scanner
-p.s this is old project i build that's why i have two projects in one day (:
 A lightweight Bash tool for auditing Linux system security.
+
+
+p.s this is old project i build that's why i have two projects in one day (:
 
 ## Overvie
 the script just scan for The Usual Suspects run cmannds that anyone can do but all that in script that about 199 i made it just for my personal use i edit it form now and then add 
