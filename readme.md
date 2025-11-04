@@ -2,19 +2,10 @@
 
 A lightweight Bash tool for auditing Linux system security.
 
-## Overview
-
-LSSS scans your system across 14 key security categories, checking configuration, permissions, and vulnerabilities. It's designed for speed, portability, and clarity — no dependencies or setup requiredu.
-
-## Features
-
-* Comprehensive security checks (14 categories)
-* Color-coded results (PASS/WARN/SKIP)
-* Works on major Linux distributions
-* Lightweight (~240 lines) and dependency-free
-
-## Installation
-
+## Overvie
+the script just scan for The Usual Suspects run cmannds that anyone can do but all that in script that about 199 i made it just for my personal use i edit it form now and then add 
+## Installatiioni
+NOTE: check any script you run in your system you copt form the internet
 ```bash
 git clone https://github.com/oswz/LSSS.git
 cd LSSS
@@ -45,19 +36,10 @@ Security frameworks, firewall, SSH, system updates, file permissions, network se
 ## Requirements
 
 * Linux OS
-* Bash 4.0+
+* Bash 
 * Standard GNU tools (`grep`, `awk`, `sed`, etc.)
 
 Root privileges recommended for full scan.
-
-## Contributing
-
-1. Fork the repo
-2. Create a branch
-3. Commit and push your changes
-4. Open a Pull Request
-
-Ideas: add new checks, support more distros, improve reports.
 
 ## License
 
