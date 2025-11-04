@@ -17,18 +17,18 @@ chmod +x lsss.sh
 Or download directly:
 
 ```bash
-wget https://raw.githubusercontent.com/oswz/LSSS/main/lsss.sh
-chmod +x lsss.sh
+wget https://raw.githubusercontent.com/oswz/LSSS/main/shs.sh
+chmod +x shs.sh
 ```
 
 ## Usage
 
 ```bash
 # Basic scan
-./lsss.sh
+./shs.sh
 
 # Full scan (recommended)
-sudo ./lsss.sh
+sudo ./shs.sh
 ```
 
 ## Categories Checked
