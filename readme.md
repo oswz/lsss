@@ -1,5 +1,5 @@
 # LSSS - Linux System Security Scanner
-
+p.s this is old project i build that's why i have two projects in one day (:
 A lightweight Bash tool for auditing Linux system security.
 
 ## Overvie
